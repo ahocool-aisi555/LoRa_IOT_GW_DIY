@@ -64,7 +64,7 @@ while :                                                     #loop terus sambil k
 
 ```
 
-<img width="500" height="400" alt="Lora3 pptx (5)" src="https://github.com/user-attachments/assets/b99d730b-6b6b-4f33-a83e-ebee49aca209" />
+<img width="500" height="300" alt="Lora3 pptx (5)" src="https://github.com/user-attachments/assets/b99d730b-6b6b-4f33-a83e-ebee49aca209" />
 
 # Membaca Data Serial Dari Arduino Uno 
 
@@ -88,3 +88,20 @@ finally:
     ser.close()
 
 ```
+
+# Praktek 1 - 2 Kirim Suhu Antar SX1278/Ra02 lalu ke PC dan MQTT broker
+
+<img width="500" height="300" alt="Lora3 pptx (3)" src="https://github.com/user-attachments/assets/2c0298b9-1405-4f49-8de4-40f74b026b32" />
+
+<img width="500" height="300" alt="Lora3 pptx (4)" src="https://github.com/user-attachments/assets/89cd1f5f-9756-4ec2-99a1-cfe84f258138" />
+
+<img width="500" height="300" alt="Lora3 pptx (6)" src="https://github.com/user-attachments/assets/e2f83dac-629a-4c52-8601-0b4a90e9589c" />
+
+<img width="500" height="300" alt="Lora3 pptx (7)" src="https://github.com/user-attachments/assets/d7e7b936-a6a0-4a21-841d-73019a3a2351" />
+
+<img width="500" height="300" alt="Lora3 pptx (8)" src="https://github.com/user-attachments/assets/ece4edee-31af-40ce-bad6-dbcb87acbb62" />
+
+
+# Praktek 3 - Suhu Dari DHT22 - Ra02 - Kirim ke LilyGo lanjut ke Broker MQTT via Wifi
+
+<img width="960" height="540" alt="Lora3 pptx (9)" src="https://github.com/user-attachments/assets/d576ba88-8dc9-4e6a-95f7-4aac3351cef4" />

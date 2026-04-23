@@ -105,3 +105,7 @@ finally:
 # Praktek 3 - Suhu Dari DHT22 - Ra02 - Kirim ke LilyGo lanjut ke Broker MQTT via Wifi
 
 <img width="960" height="540" alt="Lora3 pptx (9)" src="https://github.com/user-attachments/assets/d576ba88-8dc9-4e6a-95f7-4aac3351cef4" />
+
+# Acknowledgement
+
+Bapak Ketut Udy Ariawan ST. MT. - Koordinator Prodi Teknik Rekayasa Sistem Elektronika - Fakultas Teknik Dan Kejuruan - Universitas Pendidikan Ganesha - Singaraja Bali 

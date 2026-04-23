@@ -4,10 +4,13 @@
 
 #include <SPI.h>
 #include <LoRa.h>
-//Libraries for OLED Display
+
+//Libraries for OLED Display tolong install dulu
 #include <Wire.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
+
+//library wifi & MQTT 
 #include <WiFi.h>
 #include <PubSubClient.h>
 
@@ -28,13 +31,14 @@
 
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RST);
 
-// Wi-Fi credentials
+// Wi-Fi AP dan password yang kamu gunakan, seduaikan dulu
 const char* ssid = "Gak_Perlu_Ngebut";
 const char* password = "klengcinot";
 
-// MQTT broker configuration
+// MQTT broker configuration, bisa juga pake broker.hivemq.com atau test.mosquitto.org
 const char* mqtt_server = "mqtt.eclipseprojects.io";
 const int mqtt_port = 1883;
+//TOPIK data yang akan dikirimkan ke broker
 const char* temp_topic = "/undiksha/temp";
 const char* humi_topic = "/undiksha/humi";
 const char* rssi_topic = "/undiksha/rssi";

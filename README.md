@@ -11,6 +11,7 @@ Melalui praktek yang sudah saya laksanankan bersama TRSE -Undiksha 2025<br>
 4 Modul ini semoga dapat membantu siapapun yang sedang belajar komunikasi LoRa<br><br>
 Part 1 : https://github.com/ahocool-aisi555/LoRa_1<br>
 Part 2 : https://github.com/ahocool-aisi555/LoRa_2
+Part 4 : https://github.com/ahocool-aisi555/LoRaWan_Antares
 
 # Library
 

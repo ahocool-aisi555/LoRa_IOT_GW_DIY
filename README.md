@@ -16,7 +16,7 @@ Part 4 : https://github.com/ahocool-aisi555/LoRaWan_Antares
 # Library
 
 Arduino LoRa by Sandeepmistry : https://github.com/sandeepmistry/arduino-LoRa <br>
-Untuk menhemat memori vs Display Oled library harap install : SSD1306Ascii
+Untuk menghemat memori vs Display Oled library harap install : SSD1306Ascii
 
 
 # Bahan-Bahan
